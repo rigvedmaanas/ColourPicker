@@ -6,6 +6,7 @@ This is a simple colour picker.
 ***
 # Installation
 - Install Python (If you don't know just search for it 😄)
+- Open Command Prompt in Windows or Terminal in Mac or Linux
 - Then type
   ```bash
   pip install customtkinter pyautogui pyperclip Pillow
@@ -20,7 +21,7 @@ This is a simple colour picker.
 # How To Use
 - Toggle the switch to the on mode to copy RGB value
 - Toggle the switch to the off mode to copy HEX value
-- Point the cursor to the color code you want to copy
+- Point the cursor to the color you want to copy
 - Press "c" in the keyboard to copy the color
 
 
