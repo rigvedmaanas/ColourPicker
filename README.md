@@ -1,6 +1,7 @@
 # Colour Picker
 This is a simple colour picker.
-![Alt Text](https://user-images.githubusercontent.com/77579661/169812867-870c5030-b684-4725-b44f-93b1f83fd2af.mp4)
+![ColourPicker](https://user-images.githubusercontent.com/77579661/169813556-daec5b7b-e19c-49e0-9dd1-da5b67a15947.gif)
+
 
 ***
 # Installation
