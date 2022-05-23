@@ -1,5 +1,7 @@
 # Colour Picker
 This is a simple colour picker.
+![Alt Text](https://user-images.githubusercontent.com/77579661/169812867-870c5030-b684-4725-b44f-93b1f83fd2af.mp4)
+
 ***
 # Installation
 - Install Python (If you don't know just search for it 😄)
@@ -19,3 +21,7 @@ This is a simple colour picker.
 - Toggle the switch to the off mode to copy HEX value
 - Point the cursor to the color code you want to copy
 - Press "c" in the keyboard to copy the color
+
+
+
+
