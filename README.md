@@ -5,7 +5,7 @@ This is a simple colour picker.
 
 ***
 # Installation
-- Install Python (If you don't know just search for it 😄)
+- Install Python from [here](https://python.org)
 - Open Command Prompt in Windows or Terminal in Mac or Linux
 - Then type
   ```bash
